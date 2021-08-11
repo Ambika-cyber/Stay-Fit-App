@@ -13,3 +13,8 @@ There are two section in app. 1. Excercise and 2. Meditation.
 
 # Technology Used: 
 Dart language, Flutter , MySQL database.
+
+# Team members 
+1. Ambika Sadh 
+2. Grecy Shrivastava
+3. Sooraj Sahu 
