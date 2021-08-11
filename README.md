@@ -3,7 +3,7 @@
 
 This is my first android project of flutter.
 
-# Project Description
+## Project Description
 
 This is android based application, which is developed for the people to maintain their healthy lifestyle of body as well as mind by doing exercise and meditation. 
 There are two section in app. 1. Excercise and 2. Meditation.
@@ -11,10 +11,10 @@ There are two section in app. 1. Excercise and 2. Meditation.
 2. Meditation - In this section there are 2 types of meditation - morning meditation and evening meditation, by listening the music user and setting the timer user can do meditation.
 
 
-# Technology Used: 
+## Technology Used: 
 Dart language, Flutter , MySQL database.
 
-# Team members 
+## Team members 
 1. Ambika Sadh 
 2. Grecy Shrivastava
 3. Sooraj Sahu 
