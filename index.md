@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## STAY FIT APP
 
 You can use the [editor on GitHub](https://github.com/Ambika-cyber/Stay-Fit-App/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
