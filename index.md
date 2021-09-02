@@ -2,13 +2,15 @@
 
 This is android based application, which is developed for the people to maintain their healthy lifestyle of body as well as mind by doing exercise and meditation.
 
-### Services
 
-#### 1. Excercise Section 
-- In this section user can learn surya namaskar from the pictures and animation.
+## Project Description
 
-#### 2. Meditaion Section
-- In this section, user can do meditation by listening the music and setting the timer.
+This is android based application, which is developed for the people to maintain their healthy lifestyle of body as well as mind by doing exercise and meditation. 
+There are two section in app.
+
+1. Excercise - In this section user can see the surya namaskar steps and their animation. By watching the steps user can learn surya namskar excercise.
+2. Meditation - In this section there are 2 types of meditation - morning meditation and evening meditation, by listening the music user and setting the timer user can do meditation.
+.
 
 ### Technology Used
 
